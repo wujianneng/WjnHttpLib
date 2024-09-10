@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.cn.huiweilink",
+  "applicationId": "com.cn.wjnhttplib",
   "variantName": "debug",
   "elements": [
     {
